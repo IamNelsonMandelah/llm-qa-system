@@ -1,0 +1,9 @@
+* text=auto eol=lf
+*.md text
+*.yml text
+*.py text
+*.ts text
+*.tsx text
+*.js text
+*.json text
+*.css text
