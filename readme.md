@@ -36,7 +36,7 @@ llm-qa-system/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-IamNelsonMandelah/llm-qa-system.git
+git clone https://github.com/IamNelsonMandelah/llm-qa-system.git
 cd llm-qa-system
 ```
 

@@ -78,7 +78,7 @@ export default function Home() {
     }
   };
 
-  // Copy response to clipboard
+  // Copy response to clipboarrd
   const handleCopy = (text: string) => {
     navigator.clipboard.writeText(text);
     alert('Copied to clipboard!');
